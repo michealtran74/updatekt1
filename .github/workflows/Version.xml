@@ -1,0 +1,7 @@
+﻿<Config URL="http://127.0.0.1/">
+  <CdnUrl Url="http://127.0.0.1/"/>
+  <Application VerText="VLTB" VerCode="29"/>
+  <Resource VerText="VLTB" VerCode="200" />
+  <Store AppsIosUrl="https://volamtranhba.net" AppsAndroidUrl="https://volamtranhba.net" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
+  <UpdateInfo PushVoiceUrl="https://sdk.volamtranhba.net/ChatVoiceService.aspx" GetVoiceUrl="https://sdk.volamtranhba.net/GetVoiceChat.aspx" ServerListUrl="https://sdk.volamtranhba.net/GetServerListTest.aspx" ServerListUrlBackUp="https://sdk.volamtranhba.net/GetServerListTest.aspx" VerifyAccountSDK="https://sdk.volamtranhba.net/VerifyAccount.aspx" LoginAccountSDK="https://sdk.volamtranhba.net/LoginSDK.aspx" RegisterAccountSDK="https://sdk.volamtranhba.net/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
+</Config>
